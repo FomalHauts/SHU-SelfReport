@@ -1,0 +1,11 @@
+.idea
+.vscode
+config/__pycache__
+src/encrypt/__pycache__
+src/utils/__pycache__
+src/login/__pycache__
+src/report/__pycache__
+src/fstate/__pycache__
+src/mail/__pycache__
+.DS_Store
+report.conf

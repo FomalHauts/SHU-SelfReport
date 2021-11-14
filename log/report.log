@@ -1,0 +1,12 @@
+2021-11-12 08:50:00 base.py[line:123] INFO Running job "Launcher.main (trigger: cron[hour='8', minute='50'], next run at: 2021-11-12 08:50:00 CST)" (scheduled at 2021-11-12 08:50:00+08:00)
+2021-11-12 08:50:01 login.py[line:47] INFO [user]:19121111 -- login success
+2021-11-12 08:50:01 generator.py[line:38] INFO [user]:19121111 -- get viewstate success
+2021-11-12 08:50:01 report.py[line:84] INFO [user]:19121111 -- [2021-11-12 08:50:00.001427] -- report success
+2021-11-12 08:50:47 login.py[line:47] INFO [user]:19122222 -- login success
+2021-11-12 08:50:47 generator.py[line:38] INFO [user]:19122222 -- get viewstate success
+2021-11-12 08:50:47 report.py[line:84] INFO [user]:19122222 -- [2021-11-12 08:50:00.001427] -- report success
+2021-11-12 08:51:33 login.py[line:47] INFO [user]:19123333 -- login success
+2021-11-12 08:51:33 generator.py[line:38] INFO [user]:19123333 -- get viewstate success
+2021-11-12 08:51:33 report.py[line:84] INFO [user]:19123333 -- [2021-11-12 08:50:00.001427] -- report success
+2021-11-12 08:53:03 base.py[line:144] INFO Job "Launcher.main (trigger: cron[hour='8', minute='50'], next run at: 2021-11-13 08:50:00 CST)" executed successfully
+2021-11-12 08:53:03 main.py[line:112] INFO autoreport success...
